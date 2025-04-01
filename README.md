@@ -11,6 +11,12 @@
 niveditathetherapist/niveditathetherapist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Nivedita Kulkarni, a mental health professional 5+ years of experience helping individuals, children, adolscents and adults navigate life's challenges. My approach is grounded with a integrative aporoach towards counseling [mainly a cobination of persona centered therapy with a combination of Cognitive Behaviour Theraoy and Transactional Analysis, etc.].</p>
+    <p>I'm passionate about providing a safe and supportive space for growth and healing. Whether you're dealing with anxiety, depression, stress, or other life challenges, I’m here to help.</p>
+</section>
+
 <section id="services">
     <h2>Services</h2>
     <ul>
@@ -21,3 +27,9 @@ You can click the Preview link to take a look at your changes.
       <li>Career Counseling</li>
     </ul>
 </section>
+<section id="book">
+    <h2>Book a Session</h2>
+    <p>Click the link below to schedule an appointment with me:</p>
+    <iframe src="https://calendly.com/yourusername" width="100%" height="600" frameborder="0"></iframe>
+</section>
+
