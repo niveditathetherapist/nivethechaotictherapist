@@ -1,3 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tags for character set and responsive design -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Title of the webpage -->
+    <title>Your Website Title</title>
+
+    <!-- Link to the CSS file (Add this line within the <head> tag) -->
+    <link rel="stylesheet" href="style.css">  <!-- Correct link to your CSS file -->
+
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+    
+    <nav>
+        <!-- Your navigation content here -->
+    </nav>
+    
+    <section>
+        <h2>Services</h2>
+        <p>Details about your services...</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Your Website</p>
+    </footer>
+</body>
+</html>
+
 - 👋 Hi, I’m @thechaotictherapist
 - 👀 I’m interested in providing Counseling and Therapy services virtually
 - 🌱 I’m currently learning different kinds of therapies
