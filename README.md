@@ -1,4 +1,3 @@
-
     <header>
         <h1>Welcome to the Therapy Platform</h1>
     </header>  
@@ -14,7 +13,7 @@
 - www.linkedin.com/in/nivedita-kulkarni-86085515b
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am big time foodie but still a vegetarian
-
+<ul>
 <!---
 niveditathetherapist/niveditathetherapist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
