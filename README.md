@@ -6,7 +6,7 @@
 </head>
 <body>
     <section id="services">
-        <h2></h2>
+        <h2>Nivethechaotictherapist</h2>
         <ul>
             <li>👋 Hi, I’m @thechaotictherapist</li>
             <li>👀 I’m interested in providing Counseling and Therapy services virtually</li>
