@@ -1,6 +1,4 @@
 
-<html lang="en">
-   <html lang="en">
     <header>
         <h1>Welcome to the Therapy Platform</h1>
     </header>  
