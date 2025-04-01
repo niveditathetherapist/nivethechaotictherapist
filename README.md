@@ -32,4 +32,133 @@ You can click the Preview link to take a look at your changes.
     <p>Click the link below to schedule an appointment with me:</p>
     <iframe src="https://calendly.com/yourusername" width="100%" height="600" frameborder="0"></iframe>
 </section>
+body {
+    background-color: #f1f1f1; /* Light gray background */
+    color: #333333; /* Dark text */
+}
+
+header {
+    background-color: #0066cc; /* Blue header */
+}
+
+nav {
+    background-color: #333333; /* Dark gray for navigation */
+}
+
+footer {
+    background-color: #0066cc; /* Matching footer */
+}
+body {
+    font-family: 'Roboto', sans-serif; /* Smooth and clean font */
+}
+
+h1, h2 {
+    font-family: 'Lora', serif; /* Serif fonts for headings */
+}
+/* Button Style */
+input[type="submit"] {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049; /* Slightly darker green on hover */
+}
+
+/* Links Styling */
+a {
+    color: #4CAF50; /* Green link color */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #45a049; /* Darker green when hovered */
+}
+section {
+    display: flex;
+    flex-direction: column; /* Stacks elements vertically */
+    padding: 20px;
+    margin: 20px 0;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* For Services Section with Flexbox */
+#services ul {
+    display: flex;
+    flex-wrap: wrap; /* Wrap items onto the next line if needed */
+    gap: 20px; /* Space between items */
+}
+
+#services li {
+    flex: 1 1 250px; /* Items grow, shrink, and have a base width */
+    padding: 15px;
+    background-color: #e7f7e7;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+#hero {
+    position: relative;
+    width: 100%;
+    height: 400px; /* Set the height of the hero section */
+    overflow: hidden;
+}
+
+.hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image covers the area */
+    opacity: 0.7; /* Slight transparency */
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
+
+.hero-text h1 {
+    font-size: 36px;
+}
+
+.hero-text p {
+    font-size: 18px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: #4CAF50; /* Green links */
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #45a049; /* Hover effect */
+}
+@media screen and (max-width: 768px) {
+    nav {
+        display: block;
+        text-align: center;
+    }
+
+    #services ul {
+        flex-direction: column;
+    }
+}
 
