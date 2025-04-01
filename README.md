@@ -32,6 +32,7 @@ nav {
 footer {
     background-color: #0066cc; /* Matching footer */
 }
+
 body {
     font-family: 'Roboto', sans-serif; /* Smooth and clean font */
 }
@@ -39,6 +40,7 @@ body {
 h1, h2 {
     font-family: 'Lora', serif; /* Serif fonts for headings */
 }
+
 /* Button Style */
 input[type="submit"] {
     background-color: #4CAF50; /* Green background */
@@ -63,6 +65,7 @@ a {
 a:hover {
     color: #45a049; /* Darker green when hovered */
 }
+
 section {
     display: flex;
     flex-direction: column; /* Stacks elements vertically */
@@ -87,6 +90,7 @@ section {
     border-radius: 8px;
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
+
 #hero {
     position: relative;
     width: 100%;
@@ -117,6 +121,7 @@ section {
 .hero-text p {
     font-size: 18px;
 }
+
 footer {
     background-color: #333;
     color: white;
@@ -135,6 +140,8 @@ footer a {
 footer a:hover {
     color: #45a049; /* Hover effect */
 }
+
+/* Responsive Design */
 @media screen and (max-width: 768px) {
     nav {
         display: block;
@@ -145,7 +152,6 @@ footer a:hover {
         flex-direction: column;
     }
 }
-
 
 <section id="services">
     <h2>Services</h2>
