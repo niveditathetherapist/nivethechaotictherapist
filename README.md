@@ -3,12 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Therapy Platform</title>
+    <title>Welcome to the Therapy Platform</title>
 </head>
-<body>
-    <header>
-        <h1>Welcome to the Therapy Platform</h1>
-    </header>  
     
 <section id="services">
     <h2></h2>
