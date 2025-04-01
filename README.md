@@ -1,24 +1,12 @@
 
 <html lang="en">
    <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Therapy Platform</title>
-
-  
-</head>
-<body>
-
     <header>
         <h1>Welcome to the Therapy Platform</h1>
     </header>  
 
-    <!-- Introduction Section -->
-    <section id="about">
-
 <section id="services">
-    <h2>Our Services</h2>
+    <h2></h2>
     <ul>
 - 👋 Hi, I’m @thechaotictherapist
 - 👀 I’m interested in providing Counseling and Therapy services virtually
