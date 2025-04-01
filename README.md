@@ -1,14 +1,12 @@
 
 <html lang="en">
-    <!DOCTYPE html>
-<html lang="en">
+   <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Therapy Platform</title>
 
-    <!-- Link to the CSS file -->
-    <link rel="stylesheet" href="style.css">
+  
 </head>
 <body>
 
@@ -19,7 +17,9 @@
     <!-- Introduction Section -->
     <section id="about">
 
-
+<section id="services">
+    <h2>Our Services</h2>
+    <ul>
 - 👋 Hi, I’m @thechaotictherapist
 - 👀 I’m interested in providing Counseling and Therapy services virtually
 - 🌱 I’m currently learning different kinds of therapies
