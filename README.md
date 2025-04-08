@@ -4,6 +4,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to the Therapy Platform</title>
 </head>
+    <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Nivedita Kulkarni | Therapist & Mental Health Professional</title>
+
+  <meta name="description" content="Nivedita Kulkarni is a therapist offering individual counseling, support groups, and psychotherapy using integrative methods like CBT and TA.">
+  <meta name="keywords" content="therapist, counseling, psychotherapy, CBT, TA, mental health, India, online therapy, Nivedita the chaotic therapist">
+  <meta name="author" content="Nivedita Kulkarni">
+
+  <!-- Open Graph for social media previews -->
+  <meta property="og:title" content="Nivedita Kulkarni | The Chaotic Therapist">
+  <meta property="og:description" content="Therapist offering integrative mental health care - counseling, CBT, TA, and more.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://niveditathetherapist.github.io/nivethechaotictherapist/">
+  <meta property="og:image" content="https://your-image-url.jpg"> <!-- optional image -->
+
+  <!-- Favicon and other meta tags can go here too -->
+</head>
+
 <body>
     <section id="about">
         <h2>About Me</h2>
